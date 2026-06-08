@@ -1,0 +1,34 @@
+1. O que significa a sigla API no contexto de desenvolvimento abordado
+nas aulas?
+B) Application Programming Interface
+
+2. Na arquitetura REST, o que significa o princípio "Sem Estado"
+(Stateless)?
+D) Cada requisição do cliente para o servidor deve conter todas as
+informações necessárias, sem armazenar contexto entre as chamadas.
+
+3. Qual método HTTP é utilizado para realizar atualizações parciais em
+um recurso?
+E) PATCH
+
+4. Um cliente tenta acessar um recurso da API sem autenticação válida.
+Qual código HTTP deve ser retornado?
+C) 401 Unauthorized
+
+5. No Git, qual comando cria uma versão do código localmente?
+E) git clone
+
+6. Qual arquitetura é utilizada pelo Django?
+A) MTV (Model, Template, View)
+
+7. Qual comando cria um novo app chamado "tarefas" no Django?
+C) python manage.py startapp tarefas
+
+8. Qual arquivo define o roteamento de URLs no Django?
+E) urls.py
+
+9. Qual comando aplica as migrações no banco de dados?
+A) python manage.py makemigrations
+
+10. Qual classe/função retorna dados em formato JSON no Django?
+C) JsonResponse
